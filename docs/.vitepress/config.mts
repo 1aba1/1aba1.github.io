@@ -9,7 +9,7 @@ export default defineConfig({
     root : {
       lang: "zh_CN",
       label: '中文',
-      title: "冯林",
+      title: "冯aba林",
       description: "分享美好事情，期待与你相遇",
       themeConfig: getChinsesThemeConfig()
     },
@@ -74,7 +74,6 @@ function getChinsesThemeConfig() {
             {text:'后端的艺术',link:'/guide/diary/daily.md'},
             {text:'如何高效地学习？',link:'/guide/diary/daily.md'}
           ]
-      
         },
         { 
           text: '生活', 
